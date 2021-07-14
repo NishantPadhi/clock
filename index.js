@@ -1,4 +1,4 @@
-let myTimer = setInterval(timer, 1000)
+let myTimer = setInterval(timer, 1000);
 
 function timer() {
   d = new Date();
